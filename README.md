@@ -22,6 +22,7 @@ setup instructions:
 -create  database with name : appswavedb; in Mysql usong : create Database appswavedb;
 
 API Documntaion :
+
 I have used Swagger for API documntaion Kindly follow :
  http://localhost:8080/swagger-ui/index.html
 
