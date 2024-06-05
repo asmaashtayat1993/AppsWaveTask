@@ -20,6 +20,7 @@ setup instructions:
 - Access the Application USeing URL : http://localhost:8080
     EX: http://localhost:8080/v1/apps-wave/news
 -create  database with name : appswavedb; in Mysql usong : create Database appswavedb;
+
 API Documntaion :
 I have used Swagger for API documntaion Kindly follow :
  http://localhost:8080/swagger-ui/index.html
