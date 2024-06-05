@@ -21,7 +21,7 @@ setup instructions:
   
 - Run the Application as springboot application
   
-- Access the Application USeing URL : http://localhost:8080  
+- Access the Application Using URL : http://localhost:8080  
     EX: http://localhost:8080/v1/apps-wave/news
   
 - create  database with name : appswavedb; 
